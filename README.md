@@ -10,4 +10,4 @@ Dependencies
 
 Installation
 ------------
-python run.py <Folder Location>
+python run.py \<Folder Location\>
