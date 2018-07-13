@@ -7,3 +7,7 @@ Dependencies
 1. Python 2.6 or above.
 2. pip install watchdog
 3. pip install getpass
+
+Installation
+------------
+python run.py <Folder Location>
