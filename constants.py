@@ -1,0 +1,1 @@
+DATANCHOR_ENDPOINT = 'http://datanchor-lib.ap-south-1.elasticbeanstalk.com/api'
